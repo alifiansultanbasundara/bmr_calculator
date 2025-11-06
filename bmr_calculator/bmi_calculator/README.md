@@ -3,9 +3,9 @@
 Aplikasi Flutter untuk menghitung Basal Metabolic Rate (BMR) dan kebutuhan kalori harian.
 
 ## Anggota Kelompok
-- [Nama Anggota 1]
-- [Nama Anggota 2] 
-- [Nama Anggota 3]
+- [Alifian Sultan Basundara (K3523010)]
+- [Gustama Dillo Beshieto (K3523034)] 
+- [Ridwan Hakim Mashadi (K3523066)]
 
 ## Deskripsi
 Aplikasi ini menghitung BMR (Basal Metabolic Rate) menggunakan persamaan Mifflin-St Jeor yang merupakan metode paling akurat. BMR adalah jumlah kalori yang dibakar oleh tubuh saat istirahat total. Aplikasi juga menghitung kebutuhan kalori harian berdasarkan tingkat aktivitas pengguna.
